@@ -38,7 +38,19 @@ CS student at San Jose State University focused on **software engineering, backe
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 
-**AWS:** ECS/Fargate · RDS · S3 · CloudFront · ECR · ALB · IAM
+### AWS
+
+<p>
+  <img src="https://cdn.simpleicons.org/amazonecs/FF9900" width="42" title="Amazon ECS" />
+  <img src="https://cdn.simpleicons.org/amazonrds/527FFF" width="42" title="Amazon RDS" />
+  <img src="https://cdn.simpleicons.org/amazons3/569A31" width="42" title="Amazon S3" />
+  <img src="https://cdn.simpleicons.org/amazoncloudfront/8C4FFF" width="42" title="Amazon CloudFront" />
+  <img src="https://cdn.simpleicons.org/amazonecr/FF9900" width="42" title="Amazon ECR" />
+  <img src="https://cdn.simpleicons.org/elasticloadbalancing/8C4FFF" width="42" title="Application Load Balancer" />
+  <img src="https://cdn.simpleicons.org/amazoniam/DD344C" width="42" title="AWS IAM" />
+</p>
+
+**ECS/Fargate · RDS · S3 · CloudFront · ECR · ALB · IAM**
 
 ## Featured Project
 
