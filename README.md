@@ -16,12 +16,13 @@ CS student at San Jose State University focused on **software engineering, backe
 **Python · Java · SQL**
 
 ### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" title="SQLAlchemy" />
-</p>
 
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E)
+![Java Servlets](https://img.shields.io/badge/Java%20Servlets-ED8B00?logo=openjdk&logoColor=white)
 **REST APIs · Flask · FastAPI · SQLAlchemy · Alembic · Java Servlets**
 
 ### Databases
