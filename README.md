@@ -40,8 +40,6 @@ CS student at San Jose State University focused on **software engineering, backe
 
 ### AWS
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-
 ECS/Fargate · RDS · S3 · CloudFront · ECR · ALB · IAM
 ## Featured Project
 
