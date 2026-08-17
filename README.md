@@ -1,4 +1,80 @@
-## Hi there 👋
+# Hi, I'm Dee
+
+CS student at San Jose State University focused on **software engineering, backend systems, cloud infrastructure, and applied AI**.
+
+## Tech
+
+## Tech
+
+### Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL" />
+</p>
+
+**Python · Java · SQL**
+
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" title="SQLAlchemy" />
+</p>
+
+**REST APIs · Flask · FastAPI · SQLAlchemy · Alembic · Java Servlets**
+
+### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+</p>
+
+**PostgreSQL · MySQL · pgvector**
+
+### AI / ML
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib" />
+</p>
+
+**RAG · Sentence Transformers · OpenAI API · scikit-learn · NumPy · pandas · Matplotlib**
+
+### Cloud / DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven" />
+</p>
+
+**AWS: ECS/Fargate · RDS · S3 · CloudFront · ECR · ALB · IAM**  
+**Docker · Git · GitHub · Maven**
+
+### Other
+**JavaFX**
+
+## Featured Project
+
+### AI Codebase Assistant
+
+RAG-powered developer tool that ingests GitHub repositories and answers codebase questions with grounded file and line citations.
+
+- 100% Top-10 retrieval success across 15 evaluated questions
+- 86.7% Top-2 retrieval success
+- 100% grounded responses
+- Deployed with Docker and AWS ECS/Fargate, RDS, S3, CloudFront, and ALB
+
+[View Project](https://github.com/Dee-the-Hmu/ai-codebase-assistant)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/dee-aein/)  
+[Resume](resume.pdf)  
+Email: deeaein.ts@gmail.com
 
 <!--
 **Dee-the-Hmu/Dee-the-Hmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
